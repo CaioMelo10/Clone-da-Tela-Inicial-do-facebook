@@ -1,50 +1,47 @@
-# Welcome to your Expo app 👋
+# Facebook Login Clone
 
-This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
+Clone da tela de login do Facebook desenvolvido com React Native para fins de estudo e prática de criação de interfaces mobile.
 
-## Get started
+---
 
-1. Install dependencies
+## Preview
 
-   ```bash
-   npm install
-   ```
+Interface inspirada na tela de login do Facebook, contendo:
 
-2. Start the app
+- Campo de email ou telefone
+- Campo de senha
+- Botão Entrar
+- Botão Criar nova conta
+- Link Esqueceu a senha?
 
-   ```bash
-   npx expo start
-   ```
+---
 
-In the output, you'll find options to open the app in a
+## Tecnologias utilizadas
 
-- [development build](https://docs.expo.dev/develop/development-builds/introduction/)
-- [Android emulator](https://docs.expo.dev/workflow/android-studio-emulator/)
-- [iOS simulator](https://docs.expo.dev/workflow/ios-simulator/)
-- [Expo Go](https://expo.dev/go), a limited sandbox for trying out app development with Expo
+- React Native
+- TypeScript
+- Expo
 
-You can start developing by editing the files inside the **app** directory. This project uses [file-based routing](https://docs.expo.dev/router/introduction).
+---
 
-## Get a fresh project
+## Como executar
 
-When you're ready, run:
+### 1. Instalar dependências
 
-```bash
-npm run reset-project
-```
+npm install
 
-This command will move the starter code to the **app-example** directory and create a blank **app** directory where you can start developing.
+ou
 
-## Learn more
+yarn install
 
-To learn more about developing your project with Expo, look at the following resources:
+### 2. Executar o projeto
 
-- [Expo documentation](https://docs.expo.dev/): Learn fundamentals, or go into advanced topics with our [guides](https://docs.expo.dev/guides).
-- [Learn Expo tutorial](https://docs.expo.dev/tutorial/introduction/): Follow a step-by-step tutorial where you'll create a project that runs on Android, iOS, and the web.
+npx expo start
 
-## Join the community
+## Objetivo
 
-Join our community of developers creating universal apps.
+Este projeto foi criado com foco em aprendizado e prática de desenvolvimento mobile utilizando React Native.
 
-- [Expo on GitHub](https://github.com/expo/expo): View our open source platform and contribute.
-- [Discord community](https://chat.expo.dev): Chat with Expo users and ask questions.
+## Preview
+
+<img src="./assets/Captura de tela 2026-02-16 172540.png" width="300"/>
