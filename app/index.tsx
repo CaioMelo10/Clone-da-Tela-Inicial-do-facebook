@@ -21,7 +21,7 @@ export default function Index() {
         <TextInput style={styles.input} placeholder="Password" />
       </View>
       <TouchableOpacity style={styles.buttonLogin}>
-        <Text style={styles.buttonTextLogin}>Log In</Text>
+        <Text style={styles.buttonTextLogin}>Login</Text>
       </TouchableOpacity>
       <TouchableOpacity style={styles.buttonPassword}>
         <Text style={styles.buttonTextPassword}>Forgotten password?</Text>
